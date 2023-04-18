@@ -1,0 +1,66 @@
+Prime Number Input and Result:
+
+11
+11 31 1276
+101
+101 547 1916
+1001
+1001 7927 2743
+10001
+10001 104743 94211
+100001
+100001 1299721 190598
+1000001 - Computer did not get any result took time 
+
+
+Matrix Multi Input and result
+3 3
+Size:3 Time:0 ms
+20 3
+Size:20 Time:0 ms
+100 3
+Size:100 Time:14 ms
+200 3
+Size:200 Time:34 ms
+300 3
+Size:300 Time:61 ms
+400 3
+Size:400 Time:127 ms
+500 3
+Size:500 Time:237 ms
+600 3
+Size:600 Time:400 ms
+700 3
+Size:700 Time:852 ms
+800 3
+Size:800 Time:1376 ms
+900 3
+Size:900 Time:2448 ms
+1000 3
+Size:1000 Time:3139 ms
+
+
+Binary Input and result
+10
+The execution time to generate binary numbers from 0 to 1023.0 is 2193ms
+12
+The execution time to generate binary numbers from 0 to 4095.0 is 1784ms
+14
+The execution time to generate binary numbers from 0 to 16383.0 is 1853ms
+16
+The execution time to generate binary numbers from 0 to 65535.0 is 4202ms
+28
+The execution time to generate binary numbers from 0 to 2.68435455E8 is 7219ms
+30
+The execution time to generate binary numbers from 0 to 1.073741823E9 is 25133ms
+32
+The execution time to generate binary numbers from 0 to 4.294967295E9 is 47373ms
+34
+The execution time to generate binary numbers from 0 to 1.7179869183E10 is 44862ms
+
+
+
+
+
+
+

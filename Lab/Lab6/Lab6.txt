@@ -1,0 +1,25 @@
+Enter name or done
+emboar
+Enter name or done: 
+unfezant
+Enter name or done: 
+palkia
+Enter name or done: 
+serperior
+Enter name or done: 
+samurott
+Enter name or done: 
+done
+
+Height of the tree is: 0 
+Number of nodes in the tree is: 0 
+
+Inorder: 	serperior	unfezant	samurott	 emboar	palkia	
+Preorder: 	 emboar	unfezant	serperior	samurott	palkia	
+Postorder: 	serperior	samurott	unfezant	palkia	 emboar	
+Level order: 	
+
+And is it height balanced... No. 
+
+
+Process finished with exit code 0

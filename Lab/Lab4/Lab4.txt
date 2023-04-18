@@ -1,0 +1,40 @@
+Input And Outputs:
+
+Input String:
+Pikachu
+Charizard
+Mewtwo
+Emboar
+Bulbasaur
+Eevee
+Gengar
+Ditto
+Charmander
+quit
+
+Here is the linked list with even number nodes:
+Charmander 
+Gengar 
+Bulbasaur 
+Mewtwo 
+Pikachu 
+
+Here is the linked list with odd number nodes:
+Ditto 
+Eevee 
+Emboar 
+Charizard 
+
+Here is the reversed linked list
+Pikachu
+Charizard
+Mewtwo
+Emboar
+Bulbasaur
+Eevee
+Gengar
+Ditto
+Charmander
+
+Here is the linked list removing middle one
+Charmander--> Ditto--> Gengar--> Eevee--> Emboar--> Mewtwo--> Charizard--> Pikachu--> 

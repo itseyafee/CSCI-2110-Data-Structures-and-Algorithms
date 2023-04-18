@@ -1,0 +1,10 @@
+Usually, this error is thrown when the Java Virtual Machine cannot allocate an object because it is out of memory. No more memory could be made available by the garbage collector.
+
+OutOfMemoryError usually means that you’re doing something wrong, either holding onto objects too long or trying to process too much data at a time. Sometimes, it indicates a problem that’s out of your control, such as a third-party library that caches strings or an application server that doesn’t clean up after deploys. And sometimes, it has nothing to do with objects on the heap.
+The java.lang.OutOfMemoryError exception can also be thrown by native library code when a native allocation cannot be satisfied (for example, if swap space is low). Let us understand various cases when the OutOfMemory error might occur.
+
+
+
+Reference:
+1. https://www.geeksforgeeks.org/understanding-outofmemoryerror-exception-java/
+	Accessed on : 9th October 2022
